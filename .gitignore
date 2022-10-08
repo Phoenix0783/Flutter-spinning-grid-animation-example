@@ -32,6 +32,8 @@ migrate_working_dir/
 .pub/
 /build/
 
+.gitignore
+
 .dart_tool/
 .packages
 pubspec.lock
